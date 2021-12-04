@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "code": "PDT001",
+    "product_description": "This is a product description ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.",
+    "categories": [
+      "ctg1",
+      "ctg4",
+      "ctg9"
+    ],
+    "quantity": 7,
+    "cost": 14,
+    "img": ""
+  },
+  {
+    "id": 2,
+    "code": "PDT002",
+    "product_description": "Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur aliquet quam id dui posuere blandit.",
+    "categories": [
+      "ctg2",
+      "ctg4"
+    ],
+    "quantity": 11,
+    "cost": 5.50,
+    "img": ""
+  },
+  {
+    "id": 3,
+    "code": "PDT003",
+    "product_description": "Nulla quis lorem ut libero malesuada feugiat. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi.",
+    "categories": [
+      "ctg3",
+      "ctg5",
+      "ctg7"
+    ],
+    "quantity": 6,
+    "cost": 10,
+    "img": ""
+  },
+  {
+    "id": 4,
+    "code": "PDT004",
+    "product_description": "Donec sollicitudin molestie malesuada. Donec rutrum congue leo eget malesuada.",
+    "categories": [
+      "ctg3",
+      "ctg4",
+      "ctg6",
+      "ctg8"
+    ],
+    "quantity": 17,
+    "cost": 0.99,
+    "img": ""
+  },
+  {
+    "id": 5,
+    "code": "PDT005",
+    "product_description": "Vivamus suscipit tortor eget felis porttitor volutpat. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.",
+    "categories": [
+      "ctg2"
+    ],
+    "quantity": 2,
+    "cost": 98.12,
+    "img": ""
+  }
+]
