@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Test .json API 
 
-You can use the [editor on GitHub](https://github.com/daniepa/testJsonAPI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Go to [API test link](https://daniepa.github.io/testJsonAPI/myData.json) to call my API.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The result is an array of objects (example of products) with some fields (id, code, description. etc).
 
 ### Markdown
 
